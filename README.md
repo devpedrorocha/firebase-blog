@@ -1,6 +1,6 @@
-# firebase-blog
+# Firebase Blog
 
-This template should help get you started developing with Vue 3 in Vite.
+Neste projeto desenvolvi um blog integrado ao serviço FireBase para fazer o sistema de autenticação. Também trabalhei com o Vuex4
 
 ## Recommended IDE Setup
 
